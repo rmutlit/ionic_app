@@ -13,6 +13,8 @@
       </ion-header>
     
       <ExploreContainer name="หน้าหลัก" />
+
+      
     </ion-content>
   </ion-page>
 </template>
